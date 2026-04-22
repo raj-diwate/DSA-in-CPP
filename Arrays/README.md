@@ -7,10 +7,10 @@ This section contains solutions to array-based problems.
 | No. | Problem Name | Platform | Difficulty |
 |-----|------------- |----------|------------|
 | 1   | Two Sum      | LeetCode | Easy       |
-| 2   | Search in rot|
-      | -ated Sorted | LeetCode | Medium     |
-      | Array        |
-|  3  |  Plus One    | LeetCode | Easy       |
+| 33  | Search in rot|          |            |
+|     | -ated Sorted | LeetCode | Medium     |
+|     | Array        |          |            |
+| 66  |  Plus One    | LeetCode | Easy       |
 
 
 
