@@ -11,7 +11,10 @@ This section contains solutions to array-based problems.
 |     | -ated Sorted | LeetCode | Medium     |
 |     | Array        |          |            |
 | 66  |  Plus One    | LeetCode | Easy       |
-
+| 11  | Container wi-|
+|     |-th most water| LeetCode | Medium     |
+|976  | Largest Perim|
+|     | eter triangle| Leetcode | Easy       |
 
 
 
