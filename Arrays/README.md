@@ -15,8 +15,11 @@ This section contains solutions to array-based problems.
 |     |-th most water| LeetCode | Medium     |
 |976  | Largest Perim|
 |     | eter triangle| Leetcode | Easy       |
-
-
+| 53  | Maximum      | Leetcode | Medium     |
+|     | Subarray     |          |            |
+| 153 | Minimum in   | Leetcode | Medium     |
+|     | Rotated_Sort |          |            |
+|     | array        |          |            |
 
 
 
