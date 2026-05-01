@@ -20,7 +20,8 @@ This section contains solutions to array-based problems.
 | 153 | Minimum in   | Leetcode | Medium     |
 |     | Rotated_Sort |          |            |
 |     | array        |          |            |
-
+| 16  | 3Sum closest | Leetcode | Easy       |
+| 136 | Single element| leetcode | Easy      |
 
 
 More problems will be added as I progress.
