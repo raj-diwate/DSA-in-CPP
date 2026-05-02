@@ -7,19 +7,12 @@ This section contains solutions to array-based problems.
 | No. | Problem Name | Platform | Difficulty |
 |-----|------------- |----------|------------|
 | 1   | Two Sum      | LeetCode | Easy       |
-| 33  | Search in rot|          |            |
-|     | -ated Sorted | LeetCode | Medium     |
-|     | Array        |          |            |
+| 33  | Search in rota ted Sorted Array | LeetCode| Medium|
 | 66  |  Plus One    | LeetCode | Easy       |
-| 11  | Container wi-|
-|     |-th most water| LeetCode | Medium     |
-|976  | Largest Perim|
-|     | eter triangle| Leetcode | Easy       |
-| 53  | Maximum      | Leetcode | Medium     |
-|     | Subarray     |          |            |
-| 153 | Minimum in   | Leetcode | Medium     |
-|     | Rotated_Sort |          |            |
-|     | array        |          |            |
+| 11  | Container with most water| Leetcode | Medium |
+|976  | Largest Perimeter triangle|Leetcode | Easy  |
+| 53  | Maximum  Subarray    | Leetcode | Medium     |
+| 153 | Minimum in Rotated Sorted Array | Leetcode | Medium |
 | 16  | 3Sum closest | Leetcode | Easy       |
 | 136 | Single element| leetcode | Easy      |
 
