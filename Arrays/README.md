@@ -15,6 +15,6 @@ This section contains solutions to array-based problems.
 | 153 | Minimum in Rotated Sorted Array | Leetcode | Medium |
 | 16  | 3Sum closest | Leetcode | Easy       |
 | 136 | Single element| leetcode | Easy      |
-
+| 977 | Sqaures of a sorted array | Leetcode | Easy |
 
 More problems will be added as I progress.
