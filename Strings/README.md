@@ -12,6 +12,7 @@ This section contains solutions to string-based problems.
 | 242 | Valid Anagram   |   Leetcode | Easy  |
 | 567 | Permutation in string | Leetcode | Medium|
 | 49 | Group Anagrams | Leetcode | Medium |
+| 3 | Longest Substring without repeating characters | Medium|
 
 
 More problems will be added as I progress.
