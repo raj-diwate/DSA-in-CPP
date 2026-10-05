@@ -16,5 +16,8 @@ This section contains solutions to array-based problems.
 | 16  | 3Sum closest | Leetcode | Easy       |
 | 136 | Single element| leetcode | Easy      |
 | 977 | Sqaures of a sorted array | Leetcode | Easy |
+| 1423 | Max Points from cards | Leetcode | Medium |
+| 55 | Jump Game | Leetcode | Medium |
+| 1679 | Max no of K sum pairs | Leetcode | Medium |
 
 More problems will be added as I progress.
