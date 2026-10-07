@@ -34,7 +34,11 @@ def parse_markdown_tables(content):
     """
     Find Markdown tables containing a Difficulty column.
 
-    This intentionally does not depend on exact spacing.
+    Handles:
+    - Different spacing
+    - Different capitalization
+    - Blank lines around table rows
+    - Different README filename capitalization
     """
 
     lines = content.splitlines()
@@ -55,22 +59,40 @@ def parse_markdown_tables(content):
 
         difficulty_index = header.index("difficulty")
 
-        # Markdown table separator should normally be next line
-        if i + 1 >= len(lines):
+        # Look for the Markdown separator within
+        # the next few lines.
+        separator_index = None
+
+        for k in range(i + 1, min(i + 5, len(lines))):
+
+            candidate = lines[k].strip()
+
+            if not candidate:
+                continue
+
+            if "|" in candidate and re.fullmatch(
+                r"[\s|:\-]+",
+                candidate
+            ):
+                separator_index = k
+                break
+
+        if separator_index is None:
             continue
 
-        separator = lines[i + 1].strip()
-
-        if "|" not in separator:
-            continue
-
-        # Read rows after separator
-        j = i + 2
+        # Read table rows after the separator
+        j = separator_index + 1
 
         while j < len(lines):
 
             row = lines[j].strip()
 
+            # Ignore blank lines
+            if not row:
+                j += 1
+                continue
+
+            # Stop when the table ends
             if not row.startswith("|"):
                 break
 
@@ -81,7 +103,9 @@ def parse_markdown_tables(content):
 
             if difficulty_index < len(columns):
 
-                difficulty = clean(columns[difficulty_index])
+                difficulty = clean(
+                    columns[difficulty_index]
+                )
 
                 if difficulty in DIFFICULTIES:
                     rows.append(difficulty)
@@ -89,6 +113,7 @@ def parse_markdown_tables(content):
             j += 1
 
     return rows
+   
 
 
 # =========================================================
@@ -97,8 +122,13 @@ def parse_markdown_tables(content):
 
 topic_data = {}
 
-for readme in ROOT.rglob("README.md"):
+for readme in ROOT.rglob("*"):
 
+    if not readme.is_file():
+        continue
+
+    if readme.name.lower() != "readme.md":
+        continue
     relative_parts = readme.relative_to(ROOT).parts
 
     # Ignore repository README
