@@ -6,15 +6,18 @@ A structured collection of my **Data Structures and Algorithms practice in C++**
 
 ## 📚 Topics
 
-| Topic | Problems |
-|---|---:|
-| [Arrays](./Arrays/) | 16 |
-| [Strings](./Strings/) | 11 |
-| [Linked List](./Linked%20List/) | 7 |
-| [Binary Trees](./Binary%20Trees/) | 5 |
-| [Maths](./maths/) | 3 |
-| [Stacks](./Stacks/) | 1 |
-| **Total** | **43** |
+- [Arrays](./Arrays/)
+- [Strings](./Strings/)
+- [Linked List](./Linked%20List/)
+- [Binary Trees](./Binary%20Trees/)
+- [Maths](./maths/)
+- [Stacks](./Stacks/)
+
+---
+
+## 🔗 LeetCode
+
+[View my LeetCode Profile](https://leetcode.com/u/raj_diwate/)
 
 ---
 
