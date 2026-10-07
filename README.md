@@ -1,88 +1,61 @@
-\# 🧠 DSA in C++
+# 🧠 DSA in C++
 
+A structured collection of my **Data Structures and Algorithms practice in C++**, primarily focused on solving **LeetCode problems**, improving problem-solving skills, and building strong DSA fundamentals for technical interviews and placements.
 
+---
 
-My DSA practice repository in C++ covering core data structures,
-
-algorithms, and LeetCode problems.
-
-
-
-\## 📊 Progress Dashboard
-
-
-
-<p align="center">
-
-&#x20; <img
-
-&#x20;   src="./assets/dsa-dashboard.svg"
-
-&#x20;   alt="DSA Progress Dashboard"
-
-&#x20;   width="900"
-
-&#x20; />
-
-</p>
-
-
-
-\## 📚 Topics
-
-
+## 📚 Topics
 
 | Topic | Problems |
-
 |---|---:|
+| [Arrays](./Arrays/) | 16 |
+| [Strings](./Strings/) | 11 |
+| [Linked List](./Linked%20List/) | 7 |
+| [Binary Trees](./Binary%20Trees/) | 5 |
+| [Maths](./maths/) | 3 |
+| [Stacks](./Stacks/) | 1 |
+| **Total** | **43** |
 
-| \[Arrays](./Arrays/) | 13 |
+---
 
-| \[Strings](./Strings/) | 11 |
+## 🎯 What This Repository Covers
 
-| \[Linked List](./Linked%20List/) | 7 |
+This repository focuses on developing the core skills required to solve DSA problems effectively:
 
-| \[Binary Trees](./Binary%20Trees/) | 5 |
+- Problem-solving and logical thinking
+- Pattern recognition
+- Data structures
+- Algorithms
+- Time and space complexity analysis
+- Consistent LeetCode practice
+- Interview-oriented problem solving
 
-| \[Maths](./maths/) | 3 |
+---
 
-| \[Stacks](./Stacks/) | 1 |
+## 🗂️ Repository Structure
 
+Each topic is organized into its own directory containing:
 
+- C++ solutions to problems
+- A `README.md` containing the problem list
+- Problem number and name
+- Platform
+- Difficulty level
 
-\## 🎯 Repository Goal
-
-
-
-This repository tracks my DSA journey in C++ with a focus on:
-
-
-
-\- Problem-solving
-
-\- Pattern recognition
-
-\- Time and space complexity
-
-\- Data structures
-
-\- Algorithms
-
-\- Consistent LeetCode practice
-
-
-
-Each topic contains my C++ solutions along with a README
-
-containing the problems and their difficulty levels.
-
-
-
-\---
-
-
-
-> The dashboard is automatically generated from the README files
-
-> inside each DSA topic.
-
+```text
+DSA-in-CPP/
+│
+├── Arrays/
+├── Strings/
+├── Linked List/
+├── Binary Trees/
+├── Stacks/
+├── maths/
+│
+├── assets/
+│   └── dsa-dashboard.svg
+│
+├── scripts/
+│   └── generate_dashboard.py
+│
+└── README.md
