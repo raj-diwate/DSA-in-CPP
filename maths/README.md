@@ -1,4 +1,4 @@
-\# Maths
+# Maths
 
 
 
@@ -6,7 +6,7 @@ This section contains solutions to mathematical problems.
 
 
 
-\## Problems List
+## Problems List
 
 
 
