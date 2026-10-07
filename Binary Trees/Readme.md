@@ -1,4 +1,4 @@
-This section contains solutions to linked-list questions from leetcode.
+This section contains solutions to Binary Tree questions from leetcode.
 
 ## Problems List
 
