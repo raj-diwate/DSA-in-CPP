@@ -22,5 +22,7 @@ This section contains solutions to array-based problems.
 | 930 | Binary Subarray with Sum | Leetcode | Medium |
 | 904 | Fruits Into Baskets | Leetcode | Medium |
 | 56 | Merge Intervals | Leetcode | Medium |
+| 4 | Media of two sorted Arrays | leetcode | Hard |
+| 42 | Trapping rain water | leetcode | Hard |
 
 More problems will be added as I progress.
