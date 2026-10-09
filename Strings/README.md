@@ -17,6 +17,8 @@ This section contains solutions to string-based problems.
 | 2414 | Len of longest alphabetical continuous substring | Leetcode | Medium |
 | 3707 | Equal Score Substrings | Leetcode | Easy |
 | 13 | Roman to Integer Conversion | Leetcode | Easy |
+| 14 | Longest Common Prefix | Leetcode | Easy |
+| 76 | Minimum winodw Substring | Leetcode | Hard |
 
 
 More problems will be added as I progress.
