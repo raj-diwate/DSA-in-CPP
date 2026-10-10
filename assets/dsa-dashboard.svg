@@ -5,35 +5,35 @@
 <text x="550.0" y="82" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14px" font-weight="600" fill="#a0a0a0" text-anchor="middle">PROGRESS DASHBOARD</text>
 <circle cx="550.0" cy="200" r="92" fill="none" stroke="#292929" stroke-width="14"/>
 <circle cx="550.0" cy="200" r="92" fill="none" stroke="#00bfa5" stroke-width="14" stroke-linecap="round" stroke-dasharray="578.05304826056 578.05304826056" transform="rotate(-90 550.0 200)"/>
-<text x="550.0" y="208" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52px" font-weight="700" fill="#ffffff" text-anchor="middle">45</text>
+<text x="550.0" y="208" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="52px" font-weight="700" fill="#ffffff" text-anchor="middle">47</text>
 <text x="550.0" y="238" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15px" font-weight="600" fill="#a0a0a0" text-anchor="middle">SOLVED</text>
 <rect x="75.0" y="330" width="300" height="155" rx="18" fill="#1b1b1b" stroke="#2c2c2c" stroke-width="1"/>
 <rect x="75.0" y="330" width="300" height="5" rx="3" fill="#22c55e" stroke="none" stroke-width="0"/>
 <text x="225.0" y="370" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15px" font-weight="700" fill="#22c55e" text-anchor="middle">EASY</text>
-<text x="225.0" y="418" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38px" font-weight="700" fill="#ffffff" text-anchor="middle">26</text>
-<text x="225.0" y="450" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14px" font-weight="500" fill="#a0a0a0" text-anchor="middle">57.8%</text>
+<text x="225.0" y="418" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38px" font-weight="700" fill="#ffffff" text-anchor="middle">27</text>
+<text x="225.0" y="450" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14px" font-weight="500" fill="#a0a0a0" text-anchor="middle">57.4%</text>
 <rect x="400.0" y="330" width="300" height="155" rx="18" fill="#1b1b1b" stroke="#2c2c2c" stroke-width="1"/>
 <rect x="400.0" y="330" width="300" height="5" rx="3" fill="#f59e0b" stroke="none" stroke-width="0"/>
 <text x="550.0" y="370" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15px" font-weight="700" fill="#f59e0b" text-anchor="middle">MEDIUM</text>
 <text x="550.0" y="418" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38px" font-weight="700" fill="#ffffff" text-anchor="middle">17</text>
-<text x="550.0" y="450" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14px" font-weight="500" fill="#a0a0a0" text-anchor="middle">37.8%</text>
+<text x="550.0" y="450" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14px" font-weight="500" fill="#a0a0a0" text-anchor="middle">36.2%</text>
 <rect x="725.0" y="330" width="300" height="155" rx="18" fill="#1b1b1b" stroke="#2c2c2c" stroke-width="1"/>
 <rect x="725.0" y="330" width="300" height="5" rx="3" fill="#ef4444" stroke="none" stroke-width="0"/>
 <text x="875.0" y="370" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="15px" font-weight="700" fill="#ef4444" text-anchor="middle">HARD</text>
-<text x="875.0" y="418" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38px" font-weight="700" fill="#ffffff" text-anchor="middle">2</text>
-<text x="875.0" y="450" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14px" font-weight="500" fill="#a0a0a0" text-anchor="middle">4.4%</text>
+<text x="875.0" y="418" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="38px" font-weight="700" fill="#ffffff" text-anchor="middle">3</text>
+<text x="875.0" y="450" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14px" font-weight="500" fill="#a0a0a0" text-anchor="middle">6.4%</text>
 <text x="70" y="535" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19px" font-weight="700" fill="#ffffff" text-anchor="start">DIFFICULTY DISTRIBUTION</text>
-<text x="1030" y="535" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12px" font-weight="600" fill="#666666" text-anchor="end">45 PROBLEMS</text>
+<text x="1030" y="535" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12px" font-weight="600" fill="#666666" text-anchor="end">47 PROBLEMS</text>
 <rect x="70" y="565" width="960" height="24" rx="12" fill="#292929" stroke="none" stroke-width="0"/>
-<rect x="70" y="565" width="554.6666666666666" height="24" rx="12" fill="#22c55e" stroke="none" stroke-width="0"/>
-<rect x="624.6666666666666" y="565" width="362.6666666666667" height="24" rx="0" fill="#f59e0b" stroke="none" stroke-width="0"/>
-<rect x="987.3333333333333" y="565" width="42.666666666666664" height="24" rx="0" fill="#ef4444" stroke="none" stroke-width="0"/>
+<rect x="70" y="565" width="551.4893617021277" height="24" rx="12" fill="#22c55e" stroke="none" stroke-width="0"/>
+<rect x="621.4893617021277" y="565" width="347.2340425531915" height="24" rx="0" fill="#f59e0b" stroke="none" stroke-width="0"/>
+<rect x="968.7234042553191" y="565" width="61.276595744680854" height="24" rx="0" fill="#ef4444" stroke="none" stroke-width="0"/>
 <circle cx="70" cy="615" r="6" fill="#22c55e"/>
-<text x="85" y="620" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13px" font-weight="500" fill="#a0a0a0" text-anchor="start">Easy  26</text>
+<text x="85" y="620" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13px" font-weight="500" fill="#a0a0a0" text-anchor="start">Easy  27</text>
 <circle cx="210" cy="615" r="6" fill="#f59e0b"/>
 <text x="225" y="620" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13px" font-weight="500" fill="#a0a0a0" text-anchor="start">Medium  17</text>
 <circle cx="350" cy="615" r="6" fill="#ef4444"/>
-<text x="365" y="620" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13px" font-weight="500" fill="#a0a0a0" text-anchor="start">Hard  2</text>
+<text x="365" y="620" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="13px" font-weight="500" fill="#a0a0a0" text-anchor="start">Hard  3</text>
 <text x="70" y="680" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="19px" font-weight="700" fill="#ffffff" text-anchor="start">TOPIC COVERAGE</text>
 <text x="1030" y="680" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12px" font-weight="600" fill="#666666" text-anchor="end">6 TOPICS</text>
 <text x="70" y="722" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14px" font-weight="500" fill="#dddddd" text-anchor="start">Arrays</text>
@@ -43,9 +43,9 @@
 <text x="920" y="722" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12px" font-weight="500" fill="#666666" text-anchor="end">6E  10M  2H</text>
 <text x="70" y="762" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14px" font-weight="500" fill="#dddddd" text-anchor="start">Strings</text>
 <rect x="255" y="749" width="470" height="12" rx="6" fill="#292929" stroke="none" stroke-width="0"/>
-<rect x="255" y="749" width="287.22222222222223" height="12" rx="6" fill="#00bfa5" stroke="none" stroke-width="0"/>
-<text x="755" y="762" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14px" font-weight="700" fill="#ffffff" text-anchor="end">11</text>
-<text x="920" y="762" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12px" font-weight="500" fill="#666666" text-anchor="end">7E  4M  0H</text>
+<rect x="255" y="749" width="339.44444444444446" height="12" rx="6" fill="#00bfa5" stroke="none" stroke-width="0"/>
+<text x="755" y="762" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14px" font-weight="700" fill="#ffffff" text-anchor="end">13</text>
+<text x="920" y="762" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="12px" font-weight="500" fill="#666666" text-anchor="end">8E  4M  1H</text>
 <text x="70" y="802" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14px" font-weight="500" fill="#dddddd" text-anchor="start">Linked List</text>
 <rect x="255" y="789" width="470" height="12" rx="6" fill="#292929" stroke="none" stroke-width="0"/>
 <rect x="255" y="789" width="182.77777777777777" height="12" rx="6" fill="#00bfa5" stroke="none" stroke-width="0"/>
