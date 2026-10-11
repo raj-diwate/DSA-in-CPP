@@ -9,5 +9,6 @@ This section contains solutions to mathematical problems.
 | 69  | Sqrt(x)            | LeetCode | Easy       |
 | 7   | Reverse Integer    | LeetCode | Medium     |
 | 9   | Palindrome Number  | LeetCode | Easy       |
+| 476 | Number Complement  | Leetcode | Easy       |
 
 More problems will be added as I progress.
