@@ -6,6 +6,6 @@ This section contains solutions to recursion-based problems.
 
 | **No.** | **Problem Name** | **Platform** | **Difficulty** |
 | ------- | ---------------- | ------------ | -------------- |
-|     78  | | Subsets                 | LeetCode     |    Medium            |
+|     78  |  Subsets         | LeetCode     |    Medium      |
 
 More problems will be added as I progress.
